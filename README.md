@@ -4,16 +4,16 @@ A simple virtual assistant application created with a Speech recogniton API in P
 
 Features:
 
- Greeting based on time of the day
+ .Greeting based on time of the day
 	
- Sends Emails
+ .Sends Emails
 	
- Searches Wikipedia and provides results
+ .Searches Wikipedia and provides results
 	
- Gives current time
+ .Gives current time
 	
- Opens websites
+ .Opens websites
 	
- Plays music
+ .Plays music
 	
  
